@@ -5,8 +5,8 @@ Nubis identicons! Hosted at http://id.nub.is/
 
 ## Usage ##
 Works similar to gravatar.
-Go to http://id.nub.is/<username> to retrieve your hash.
-Your identicon is now at http://id.nub.is/<hash>.png
+Go to `http://id.nub.is/<username>` to retrieve your hash.
+Your identicon is now at `http://id.nub.is/<hash>.png`
 
 
 ## Example ##
